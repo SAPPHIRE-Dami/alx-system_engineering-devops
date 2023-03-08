@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell scripting
+this repo is for testing and practicing Bash scripting
